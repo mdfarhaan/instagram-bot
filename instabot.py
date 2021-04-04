@@ -30,7 +30,7 @@ no_of_post_to_like = 3
 
 #Minutes to Sleep
 min_to_sleep = 0.5
-#sleeps after for 30sec
+#sleeps for 30sec
 
 #run with headless
 toRunwith = False
