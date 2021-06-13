@@ -1,5 +1,5 @@
 # Instagram Hashtag Liking Bot
-##### Open Source Instagram hashtag liking bot in Python without the Instagram Api
+##### Open Source Instagram hashtag liking bot in Python without the Instagram Api using Selenium
 # Usage
 ### Enter your login deatils:
 ```python
